@@ -47,8 +47,8 @@ export default function Detail() {
     functionName: 'registerAndPredict',
     args: [
       BigInt(4),
-      BigInt(42143),
-      BigInt(1711136100),
+      BigInt(42146),
+      BigInt(1711206000),
       1, // win
     ],
     value: parseEther(`${betAmount}`),
